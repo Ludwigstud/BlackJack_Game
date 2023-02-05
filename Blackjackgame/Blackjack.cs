@@ -20,6 +20,9 @@ namespace Blackjack
         }
         static void Main(string[] args)
         {
+
+
+
             Console.WriteLine("Welcome to Blackjack!");
             int playerTotalCards = 0;
             int dealerTotalCard = 0;
@@ -77,6 +80,14 @@ namespace Blackjack
                 Console.WriteLine("You bust. Dealer wins.");
             }
             Console.WriteLine("You hit Blackjack! You win!");
+
+
+            Console.WriteLine("The game is done, press Enter to exit");
+            Console.ReadLine();
+
+
+
+
         }
 
   
