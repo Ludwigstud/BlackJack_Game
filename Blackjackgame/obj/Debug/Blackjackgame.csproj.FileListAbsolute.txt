@@ -1,0 +1,8 @@
+E:\skol\kod\c#\Blackjackgame\Blackjackgame\bin\Debug\Blackjackgame.exe.config
+E:\skol\kod\c#\Blackjackgame\Blackjackgame\bin\Debug\Blackjackgame.exe
+E:\skol\kod\c#\Blackjackgame\Blackjackgame\bin\Debug\Blackjackgame.pdb
+E:\skol\kod\c#\Blackjackgame\Blackjackgame\obj\Debug\Blackjackgame.csproj.AssemblyReference.cache
+E:\skol\kod\c#\Blackjackgame\Blackjackgame\obj\Debug\Blackjackgame.csproj.SuggestedBindingRedirects.cache
+E:\skol\kod\c#\Blackjackgame\Blackjackgame\obj\Debug\Blackjackgame.csproj.CoreCompileInputs.cache
+E:\skol\kod\c#\Blackjackgame\Blackjackgame\obj\Debug\Blackjackgame.exe
+E:\skol\kod\c#\Blackjackgame\Blackjackgame\obj\Debug\Blackjackgame.pdb
